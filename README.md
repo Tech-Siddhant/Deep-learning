@@ -1,4 +1,4 @@
-# Deep Learning Learning Repository
+# Deep Learning Repository
 
 I created this repository to document my experiments and practical implementations as I transitioned from classical Machine Learning into Deep Learning. It covers neural network foundations, computer vision with Convolutional Neural Networks (CNNs), sequence modeling with Recurrent Neural Networks (RNNs), and a tabular classification mini-project.
 
